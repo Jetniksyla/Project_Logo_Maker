@@ -69,7 +69,7 @@ npm run test
 
 ## Live Video
 
-A walkthrough video demonstrating the functionalities of the SVG Logo Maker can be found [here](https://www.loom.com/share/04fbbd94276d49e2824d55ae5fe17463?sid=94e283ca-6479-4521-97cd-bfd3086d592b).
+A walkthrough video demonstrating the functionalities of the SVG Logo Maker can be found [here](https://www.loom.com/share/bfa3db0a4619414a88500617b5ab2861?sid=675fb929-ccb4-4885-b256-8644e25adce5).
 
 
 ## Contributing
